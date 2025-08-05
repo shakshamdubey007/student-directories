@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: #f4f4f4;
+}
+h1, h2 {
+    color: #333;
+}
+form input, form textarea {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    width: 300px;
+}
+button {
+    padding: 10px 20px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+img {
+    border-radius: 5px;
+}
